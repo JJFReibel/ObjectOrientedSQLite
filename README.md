@@ -1,2 +1,2 @@
 # ObjectOrientedSQLite
-Object Oriented Programmin in SQLite
+Object Oriented Programming in SQLite
